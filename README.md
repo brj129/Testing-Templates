@@ -1,10 +1,11 @@
-# Testing-Templates
-
-Exploratory Charter Template
+# Exploratory Charter Template
 
   Pull Request Name - NAME
+  
   Pull Request Link - LINK
+  
   Time — TIME/DATE
+  
   Performed by - NAME OF TESTERS
 
 **List of Test Steps from Developer**
